@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto
 {
-    public abstract class Cliente
-    {
-      
-    }  
+    public abstract class Vehiculo
+    {       
+    }
 }

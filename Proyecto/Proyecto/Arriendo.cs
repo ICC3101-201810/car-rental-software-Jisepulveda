@@ -10,7 +10,7 @@ namespace Proyecto
     {
         Accesorios accesorios;
         Cliente cliente;
-        Vehiculos vehiculo;
+        Vehiculo vehiculo;
 
     }
 }
