@@ -1,0 +1,7 @@
+C:\Users\ING\Desktop\car-rental-software-Jisepulveda\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\ING\Desktop\car-rental-software-Jisepulveda\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ING\Desktop\car-rental-software-Jisepulveda\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\ING\Desktop\car-rental-software-Jisepulveda\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\ING\Desktop\car-rental-software-Jisepulveda\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\ING\Desktop\car-rental-software-Jisepulveda\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\ING\Desktop\car-rental-software-Jisepulveda\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
